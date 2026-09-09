@@ -675,6 +675,7 @@ fn_info_game_st() {
 	serverpassword="${serverpassword:-"NOT SET"}"
 	worldsave="${worldsave:-"NOT SET"}"
 	worldtype="${worldtype:-"NOT SET"}"
+	stationname="${stationname:-"WHAT IS THIS"}"
 }
 
 # Config Type: ini

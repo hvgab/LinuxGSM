@@ -713,7 +713,7 @@ elif [ "${shortname}" == "sb" ]; then
 	fn_set_config_vars
 	fn_list_config_locations
 elif [ "${shortname}" == "st" ]; then
-	array_configs+=(setting.xml)
+	# array_configs+=(setting.xml)
 	fn_default_config_remote
 	fn_set_config_vars
 	fn_list_config_locations
